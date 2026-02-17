@@ -1,0 +1,877 @@
+object,domain,week,pmi_mean,pmi_volatility,signal_count,risk_avg,pmi_trend,regime,risk_diagnosis
+Coal & Energy,General,2024-06-03,4.27,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2024-06-10,3.0,0.0,2,0.0,-1.2699999999999996,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2024-07-08,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2024-08-05,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2024-11-04,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2024-12-16,3.24,0.0,1,0.0,0.2400000000000002,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2025-03-03,3.0,0.0,1,0.0,-0.2400000000000002,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2025-05-12,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2025-06-09,4.62,0.0,1,0.0,1.62,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2025-07-28,1.0150000000000001,0.021213203435596368,2,-6.0,-3.605,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2025-08-18,3.0,0.0,1,0.0,1.9849999999999999,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2025-09-01,3.0,0.0,3,0.0,0.0,Stable Transition,Stabil
+Coal & Energy,General,2025-11-03,2.8528571428571428,0.85888909423189,7,-0.5714285714285714,-0.14714285714285724,Stable Transition,Stabil
+Coal & Energy,General,2025-11-10,4.11,0.0,1,0.0,1.2571428571428576,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2025-11-17,3.0,0.0,1,0.0,-1.1100000000000003,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2025-11-24,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2025-12-01,4.895,0.021213203435596288,2,0.0,1.8949999999999996,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2025-12-08,3.2,0.0,1,0.0,-1.6949999999999994,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2025-12-15,3.955,1.3505739520663058,2,0.0,0.7549999999999999,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2025-12-22,2.926666666666667,0.43112256571265983,6,-0.25,-1.0283333333333329,Stable Transition,Stabil
+Coal & Energy,General,2025-12-29,3.0,0.0,2,0.0,0.0733333333333328,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2026-01-05,3.4333333333333336,1.9930964184738615,3,-0.8333333333333334,0.43333333333333357,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Coal & Energy,General,2026-01-12,3.0,0.0,2,0.0,-0.43333333333333357,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,General,2026-01-19,3.414,0.48762690655869273,5,0.0,0.41400000000000015,Stable Transition,Stabil
+Coal & Energy,General,2026-01-26,4.11,0.0,1,0.0,0.6960000000000002,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2024-01-01,1.09,0.0,1,-2.5,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2024-05-27,4.87,0.0,1,0.0,3.7800000000000002,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2024-06-03,3.0,0.0,1,0.0,-1.87,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2024-06-10,3.0,0.0,2,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2024-06-17,3.94,1.3293607486307093,2,0.0,0.94,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2024-07-01,3.43,0.0,1,0.0,-0.5099999999999998,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2024-07-08,5.0,0.0,1,0.0,1.5699999999999998,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2024-07-22,3.0666666666666664,0.11547005383792529,3,0.0,-1.9333333333333336,Stable Transition,Stabil
+Coal & Energy,Industrial & Investment,2024-07-29,3.0,0.0,1,0.0,-0.06666666666666643,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2024-09-09,3.76,0.0,1,0.0,0.7599999999999998,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2024-09-23,3.39,0.268700576850888,2,0.0,-0.36999999999999966,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2024-11-18,3.0,0.0,1,0.0,-0.3900000000000001,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2024-11-25,3.39,0.268700576850888,2,0.0,0.3900000000000001,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2024-12-02,2.27,1.725340546095176,2,-2.5,-1.12,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2024-12-09,3.49,0.0,1,0.0,1.2200000000000002,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-01-06,4.88,0.0,1,0.0,1.3899999999999997,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-02-24,1.24,0.0,1,-2.0,-3.6399999999999997,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-03-03,4.6,0.0,1,0.0,3.3599999999999994,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-03-17,4.555,0.6293250352560268,2,0.0,-0.04499999999999993,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-04-14,4.88,0.0,1,0.0,0.3250000000000002,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-04-21,3.0,0.0,1,0.0,-1.88,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-05-05,3.434,0.8630063730935015,5,0.0,0.43400000000000016,Stable Transition,Stabil
+Coal & Energy,Industrial & Investment,2025-05-19,1.0,0.0,1,-8.0,-2.434,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-06-02,3.0,0.0,1,0.0,2.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-06-09,4.27,0.0,1,0.0,1.2699999999999996,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-06-16,4.7,0.0,1,0.0,0.4300000000000006,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-06-23,3.12,0.16970562748477155,2,0.0,-1.58,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-06-30,4.27,0.0,1,0.0,1.1499999999999995,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-07-21,4.93,0.0,1,0.0,0.6600000000000001,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-07-28,3.995,1.4071424945612299,2,0.0,-0.9349999999999996,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-08-04,3.3866666666666667,0.4772141378179541,3,0.0,-0.6083333333333334,Stable Transition,Stabil
+Coal & Energy,Industrial & Investment,2025-08-18,3.7933333333333334,0.9952051714763812,3,0.0,0.40666666666666673,Stable Transition,Stabil
+Coal & Energy,Industrial & Investment,2025-09-15,4.1,1.2727922061357857,2,0.0,0.3066666666666662,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-09-22,2.0,1.4142135623730951,2,-3.0,-2.0999999999999996,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-10-13,5.0,0.0,1,0.0,3.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-10-20,4.192,0.9998849933867394,5,0.0,-0.8079999999999998,✅ Execution Phase,Stabil
+Coal & Energy,Industrial & Investment,2025-10-27,4.555,0.6293250352560268,2,0.0,0.36299999999999955,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-11-03,3.504,1.433520142865108,5,-1.6,-1.0509999999999997,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Coal & Energy,Industrial & Investment,2025-11-10,4.136666666666667,0.5069779745380135,6,0.0,0.6326666666666667,✅ Execution Phase,Stabil
+Coal & Energy,Industrial & Investment,2025-11-17,3.632857142857143,1.0544937851202079,7,-0.21428571428571427,-0.5038095238095237,Stable Transition,Stabil
+Coal & Energy,Industrial & Investment,2025-11-24,2.0949999999999998,1.2798632739476512,2,-1.0,-1.5378571428571433,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-12-01,4.025,1.1667261889578027,2,0.0,1.9300000000000006,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Industrial & Investment,2025-12-08,3.6550000000000002,0.9071751025390119,4,0.0,-0.3700000000000001,Stable Transition,Stabil
+Coal & Energy,Industrial & Investment,2025-12-15,3.6666666666666665,0.6911825615084146,3,0.0,0.01166666666666627,Stable Transition,Stabil
+Coal & Energy,Industrial & Investment,2025-12-22,3.7216666666666662,0.8393668248547036,6,0.0,0.054999999999999716,Stable Transition,Stabil
+Coal & Energy,Industrial & Investment,2025-12-29,3.768333333333333,1.0859910987971617,6,-0.25,0.046666666666666856,Stable Transition,Stabil
+Coal & Energy,Industrial & Investment,2026-01-05,3.6483333333333334,0.950357517866148,18,-0.1111111111111111,-0.11999999999999966,Stable Transition,Stabil
+Coal & Energy,Industrial & Investment,2026-01-12,4.043636363636363,0.740638545138892,11,0.0,0.3953030303030296,✅ Execution Phase,Stabil
+Coal & Energy,Industrial & Investment,2026-01-19,3.79875,0.8962212338479825,8,0.0,-0.24488636363636296,Stable Transition,Stabil
+Coal & Energy,Industrial & Investment,2026-01-26,3.88,0.9616652224137042,2,0.0,0.08124999999999982,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2024-05-13,3.76,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2024-05-20,3.92,0.0,1,0.0,0.16000000000000014,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2024-05-27,3.0,0.0,1,0.0,-0.9199999999999999,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2024-06-03,3.3099999999999996,1.742546029999399,4,-1.5,0.3099999999999996,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Coal & Energy,Mining & Upstream,2024-06-24,3.0,0.0,1,0.0,-0.3099999999999996,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2024-07-01,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2024-07-22,4.81,0.0,2,0.0,1.8099999999999996,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2024-07-29,3.0,0.0,2,0.0,-1.8099999999999996,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2024-08-05,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2024-08-19,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2024-11-18,3.245,0.34648232278140845,2,0.0,0.2450000000000001,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-01-06,3.2,0.0,1,0.0,-0.04499999999999993,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-01-13,3.24,0.0,1,0.0,0.040000000000000036,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-02-24,3.0,0.0,1,0.0,-0.2400000000000002,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-03-10,5.0,0.0,1,0.0,2.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-04-21,4.94,0.0,1,0.0,-0.05999999999999961,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-05-05,3.0,0.0,1,0.0,-1.9400000000000004,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-05-12,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-07-21,1.918,1.0049228826133876,5,-5.3,-1.082,ℹ️ Early Discourse,Stabil
+Coal & Energy,Mining & Upstream,2025-08-11,3.88,0.0,1,-2.0,1.962,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-08-18,2.155,1.6192745289171935,2,-4.0,-1.725,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-09-15,1.0,0.0,1,-8.0,-1.1549999999999998,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-10-06,3.0,0.0,3,0.0,2.0,Stable Transition,Stabil
+Coal & Energy,Mining & Upstream,2025-10-27,4.96,0.0,1,0.0,1.96,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-11-17,2.125,1.5768481220460013,2,-2.0,-2.835,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-11-24,2.846666666666667,1.635002548417994,3,-9.0,0.7216666666666671,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Coal & Energy,Mining & Upstream,2025-12-01,2.765,2.3263813101037414,2,-2.75,-0.081666666666667,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-12-08,4.640000000000001,0.36769552621700474,2,0.0,1.8750000000000004,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-12-15,3.6550000000000002,0.6434671708797584,2,0.0,-0.9850000000000003,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2025-12-22,2.875,0.1767766952966369,2,-1.25,-0.7800000000000002,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2026-01-05,3.72,0.0,1,0.0,0.8450000000000002,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Mining & Upstream,2026-01-12,3.706666666666667,0.9757731976916223,3,0.0,-0.013333333333333197,Stable Transition,Stabil
+Coal & Energy,Mining & Upstream,2026-01-19,3.6799999999999997,1.4442298985964805,5,-0.5,-0.026666666666667282,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Coal & Energy,Mining & Upstream,2026-01-26,1.0,0.0,1,-6.0,-2.6799999999999997,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2024-03-11,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2024-07-15,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2024-08-12,3.2,0.0,1,0.0,0.20000000000000018,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2024-09-09,3.92,0.0,1,0.0,0.7199999999999998,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2024-09-23,3.2,0.0,1,0.0,-0.7199999999999998,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2024-11-04,3.0,0.0,1,0.0,-0.20000000000000018,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2024-11-18,3.05,0.07071067811865497,2,0.0,0.04999999999999982,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2024-11-25,3.6550000000000002,0.04949747468305806,2,0.0,0.6050000000000004,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-01-06,3.0,0.0,1,0.0,-0.6550000000000002,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-01-13,4.88,0.0,1,0.0,1.88,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-01-20,4.98,0.0,1,0.0,0.10000000000000053,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-05-12,3.995,1.4071424945612299,2,0.0,-0.9850000000000003,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-06-09,3.2,0.0,2,0.0,-0.7949999999999999,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-06-16,4.76,0.3394112549695431,2,0.0,1.5599999999999996,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-06-23,3.24,0.0,1,0.0,-1.5199999999999996,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-07-21,2.0500000000000003,1.784040358287895,3,-3.3333333333333335,-1.19,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Coal & Energy,Sustainability & ESG,2025-08-11,5.0,0.0,1,0.0,2.9499999999999997,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-08-18,5.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-08-25,3.24,0.0,1,0.0,-1.7599999999999998,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-09-15,3.0,0.0,1,0.0,-0.2400000000000002,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-10-06,4.6,0.0,1,0.0,1.5999999999999996,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-10-13,3.1,0.14142135623730964,2,0.0,-1.4999999999999996,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-10-20,2.54,1.5552170266557657,3,-7.5,-0.56,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Coal & Energy,Sustainability & ESG,2025-10-27,3.24,0.0,1,0.0,0.7000000000000002,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-11-10,4.27,0.0,1,0.0,1.0299999999999994,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-11-17,4.88,0.0,1,0.0,0.6100000000000003,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-11-24,4.91,0.0,1,0.0,0.03000000000000025,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-12-01,3.94,1.3293607486307093,2,0.0,-0.9700000000000002,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-12-08,2.7825,0.7079724570913761,4,-1.25,-1.1574999999999998,Stable Transition,Stabil
+Coal & Energy,Sustainability & ESG,2025-12-15,3.1950000000000003,0.22516660498395416,4,0.0,0.4125000000000001,Stable Transition,Stabil
+Coal & Energy,Sustainability & ESG,2025-12-22,1.0,0.0,1,-20.0,-2.1950000000000003,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2025-12-29,3.2,0.0,1,0.0,2.2,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2026-01-05,3.18375,0.44445592743102363,8,0.0,-0.01625000000000032,Stable Transition,Stabil
+Coal & Energy,Sustainability & ESG,2026-01-12,4.415,0.8273149339882605,2,0.0,1.2312500000000002,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Sustainability & ESG,2026-01-19,3.1585714285714284,0.16537115542808267,7,0.0,-1.2564285714285717,Stable Transition,Stabil
+Coal & Energy,Sustainability & ESG,2026-01-26,4.98,0.0,1,0.0,1.821428571428572,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2024-11-04,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2024-12-09,4.58,0.0,1,0.0,1.58,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2025-03-03,3.0,0.0,2,0.0,-1.58,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2025-04-07,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2025-05-05,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2025-05-12,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2025-07-14,3.69,0.0,1,0.0,0.69,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2025-09-29,3.0,0.0,1,0.0,-0.69,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2025-10-06,4.85,0.0,1,0.0,1.8499999999999996,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2025-10-13,3.39,0.0,1,0.0,-1.4599999999999995,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2025-11-10,4.09,0.9333809511662428,2,0.0,0.6999999999999997,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2025-11-24,4.27,0.0,1,0.0,0.17999999999999972,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2025-12-01,3.2075,0.1757602533756331,4,0.0,-1.0624999999999996,Stable Transition,Stabil
+Coal & Energy,Trade & Export,2025-12-08,3.535,0.7566042558696061,2,0.0,0.3275000000000001,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2025-12-15,3.76,0.0,1,0.0,0.22499999999999964,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2025-12-22,3.12,0.16970562748477155,2,0.0,-0.6399999999999997,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2025-12-29,3.8699999999999997,0.8072793816269555,3,0.0,0.7499999999999996,Stable Transition,Stabil
+Coal & Energy,Trade & Export,2026-01-05,3.245,0.34648232278140845,2,0.0,-0.6249999999999996,Wait & See,Low Reliability (Data Minim)
+Coal & Energy,Trade & Export,2026-01-12,3.683333333333333,1.328118970574549,9,-1.3888888888888888,0.438333333333333,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Coal & Energy,Trade & Export,2026-01-19,3.124,1.0398701842057019,5,-0.7,-0.559333333333333,Stable Transition,Stabil
+General,General,2019-07-29,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,General,2024-05-27,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,General,2024-06-10,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,General,2024-07-01,4.9,0.0,1,0.0,1.9000000000000004,Wait & See,Low Reliability (Data Minim)
+General,General,2024-09-02,3.0,0.0,1,0.0,-1.9000000000000004,Wait & See,Low Reliability (Data Minim)
+General,General,2024-11-04,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,General,2024-11-11,3.2,0.0,1,0.0,0.20000000000000018,Wait & See,Low Reliability (Data Minim)
+General,General,2024-11-25,3.0,0.0,1,0.0,-0.20000000000000018,Wait & See,Low Reliability (Data Minim)
+General,General,2024-12-09,3.24,0.0,1,0.0,0.2400000000000002,Wait & See,Low Reliability (Data Minim)
+General,General,2024-12-16,4.11,0.0,1,0.0,0.8700000000000001,Wait & See,Low Reliability (Data Minim)
+General,General,2024-12-23,4.11,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,General,2025-01-20,3.0,0.0,1,0.0,-1.1100000000000003,Wait & See,Low Reliability (Data Minim)
+General,General,2025-03-03,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,General,2025-05-19,4.11,0.0,1,0.0,1.1100000000000003,Wait & See,Low Reliability (Data Minim)
+General,General,2025-05-26,3.0,0.0,2,0.0,-1.1100000000000003,Wait & See,Low Reliability (Data Minim)
+General,General,2025-06-02,3.88,0.0,1,0.0,0.8799999999999999,Wait & See,Low Reliability (Data Minim)
+General,General,2025-06-09,3.785,0.8273149339882605,2,0.0,-0.09499999999999975,Wait & See,Low Reliability (Data Minim)
+General,General,2025-07-07,3.6133333333333333,1.0623244953089113,3,0.0,-0.17166666666666686,Stable Transition,Stabil
+General,General,2025-07-14,3.0,0.0,1,0.0,-0.6133333333333333,Wait & See,Low Reliability (Data Minim)
+General,General,2025-07-28,1.6766666666666667,1.1461384442262346,3,-3.3333333333333335,-1.3233333333333333,ℹ️ Early Discourse,Stabil
+General,General,2025-08-04,2.0,1.4142135623730951,2,-3.0,0.32333333333333325,Wait & See,Low Reliability (Data Minim)
+General,General,2025-08-11,3.72,0.0,1,0.0,1.7200000000000002,Wait & See,Low Reliability (Data Minim)
+General,General,2025-09-15,3.94,1.3293607486307093,2,0.0,0.21999999999999975,Wait & See,Low Reliability (Data Minim)
+General,General,2025-10-13,4.195,1.1384419177103415,2,0.0,0.25500000000000034,Wait & See,Low Reliability (Data Minim)
+General,General,2025-10-20,3.466666666666667,0.7841088359830327,6,0.0,-0.7283333333333335,Stable Transition,Stabil
+General,General,2025-10-27,2.125,1.5768481220460013,2,-3.0,-1.3416666666666668,Wait & See,Low Reliability (Data Minim)
+General,General,2025-11-03,3.8033333333333332,0.7273146957587663,6,0.0,1.6783333333333332,Stable Transition,Stabil
+General,General,2025-11-10,3.0,0.0,1,0.0,-0.8033333333333332,Wait & See,Low Reliability (Data Minim)
+General,General,2025-11-17,3.0,0.0,6,0.0,0.0,Stable Transition,Stabil
+General,General,2025-11-24,3.3473333333333333,0.5534626928537753,15,0.0,0.34733333333333327,Stable Transition,Stabil
+General,General,2025-12-01,2.9250000000000003,0.9854348371058423,12,-0.5,-0.422333333333333,Stable Transition,Stabil
+General,General,2025-12-08,3.458571428571428,0.6923459085911154,21,0.0,0.5335714285714279,Stable Transition,Stabil
+General,General,2025-12-15,3.41125,0.5605815432804282,16,-0.09375,-0.04732142857142829,Stable Transition,Stabil
+General,General,2025-12-22,3.915263157894737,0.8188499280566389,19,0.0,0.5040131578947369,Stable Transition,Stabil
+General,General,2025-12-29,3.209230769230769,0.7329445356285101,13,-0.15384615384615385,-0.7060323886639677,Stable Transition,Stabil
+General,General,2026-01-05,2.963913043478261,0.9087540878009087,23,-0.5217391304347826,-0.24531772575250832,Stable Transition,Stabil
+General,General,2026-01-12,3.35875,0.7923128658676157,32,-0.1875,0.39483695652173934,Stable Transition,Stabil
+General,General,2026-01-19,2.983018867924528,0.9200743801572625,53,-1.0566037735849056,-0.37573113207547193,Stable Transition,Stabil
+General,General,2026-01-26,3.504,0.7859912354614534,10,0.0,0.5209811320754718,Stable Transition,Stabil
+General,Industrial & Investment,2023-12-25,3.05,0.10000000000000007,4,0.0,0.0,Stable Transition,Stabil
+General,Industrial & Investment,2024-01-01,1.0,0.0,1,-5.0,-2.05,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2024-01-15,1.09,0.0,1,-2.5,0.09000000000000008,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2024-03-25,5.0,0.0,1,0.0,3.91,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2024-06-24,4.4,0.0,1,0.0,-0.5999999999999996,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2024-07-29,3.2866666666666666,0.3126233090051561,3,0.0,-1.1133333333333337,Stable Transition,Stabil
+General,Industrial & Investment,2024-08-05,4.11,0.0,1,0.0,0.8233333333333337,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2024-08-12,3.1,0.14142135623730964,2,0.0,-1.0100000000000002,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2024-09-02,4.11,0.0,1,0.0,1.0100000000000002,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2024-09-23,4.005,1.138441917710341,2,0.0,-0.10500000000000043,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2024-10-14,3.2487500000000002,1.1957237796175408,8,-0.25,-0.7562499999999996,Stable Transition,Stabil
+General,Industrial & Investment,2024-10-21,3.0,0.0,1,0.0,-0.24875000000000025,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2024-11-11,2.847142857142857,0.4982206434139492,7,-0.21428571428571427,-0.15285714285714302,Stable Transition,Stabil
+General,Industrial & Investment,2024-11-18,2.7824999999999998,1.2459634826109474,4,-1.0,-0.06464285714285722,⚠️ High Risk,Ambivalensi: Konflik Narasi
+General,Industrial & Investment,2024-12-02,3.1483333333333334,0.17325318659888103,6,0.0,0.3658333333333337,Stable Transition,Stabil
+General,Industrial & Investment,2024-12-09,3.832,0.8116156725938701,5,0.0,0.6836666666666664,Stable Transition,Stabil
+General,Industrial & Investment,2024-12-16,3.6380000000000003,0.8323580960139693,5,0.0,-0.1939999999999995,Stable Transition,Stabil
+General,Industrial & Investment,2025-01-06,3.6533333333333338,1.0124557603503803,6,0.0,0.015333333333333421,Stable Transition,Stabil
+General,Industrial & Investment,2025-01-13,3.24,0.0,1,0.0,-0.41333333333333355,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2025-01-20,4.36,0.0,1,0.0,1.12,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2025-02-03,3.39,0.0,1,0.0,-0.9700000000000002,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2025-02-10,4.135714285714285,0.947555752851464,7,-0.21428571428571427,0.7457142857142851,✅ Execution Phase,Stabil
+General,Industrial & Investment,2025-02-17,3.0,0.0,1,0.0,-1.1357142857142852,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2025-02-24,3.64,1.1085125168440815,3,0.0,0.6400000000000001,Stable Transition,Stabil
+General,Industrial & Investment,2025-03-03,3.1475,0.18714967272212904,4,0.0,-0.49250000000000016,Stable Transition,Stabil
+General,Industrial & Investment,2025-03-10,4.46,0.49497474683058273,2,0.0,1.3125,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2025-03-17,3.086,0.1923018460649818,5,0.0,-1.374,Stable Transition,Stabil
+General,Industrial & Investment,2025-03-24,4.0,1.4142135623730951,2,0.0,0.9140000000000001,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2025-04-07,3.0,0.0,1,0.0,-1.0,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2025-04-14,3.5866666666666664,0.8488423489278399,3,0.0,0.5866666666666664,Stable Transition,Stabil
+General,Industrial & Investment,2025-04-21,3.7900000000000005,0.6882586723027906,3,0.0,0.20333333333333403,Stable Transition,Stabil
+General,Industrial & Investment,2025-04-28,3.0,0.0,4,0.0,-0.7900000000000005,Stable Transition,Stabil
+General,Industrial & Investment,2025-05-05,4.543333333333333,0.4454585652261426,3,0.0,1.543333333333333,✅ Execution Phase,Stabil
+General,Industrial & Investment,2025-05-12,3.0,0.0,2,0.0,-1.543333333333333,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2025-05-19,3.1199999999999997,0.2939387691339814,6,0.0,0.11999999999999966,Stable Transition,Stabil
+General,Industrial & Investment,2025-05-26,3.4025,0.5362768474797855,8,0.0,0.2825000000000002,Stable Transition,Stabil
+General,Industrial & Investment,2025-06-23,3.2,0.0,2,0.0,-0.20249999999999968,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2025-06-30,3.0,0.0,1,0.0,-0.20000000000000018,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2025-07-07,3.1575,0.19189841062395493,4,0.0,0.1575000000000002,Stable Transition,Stabil
+General,Industrial & Investment,2025-07-14,3.0,0.0,3,0.0,-0.1575000000000002,Stable Transition,Stabil
+General,Industrial & Investment,2025-07-21,3.0,0.0,2,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2025-07-28,3.7785714285714285,1.3816828938101606,7,-0.21428571428571427,0.7785714285714285,⚠️ High Risk,Ambivalensi: Konflik Narasi
+General,Industrial & Investment,2025-08-04,3.53125,0.7234922746156807,8,0.0,-0.24732142857142847,Stable Transition,Stabil
+General,Industrial & Investment,2025-08-11,3.1585714285714284,0.41954056504024234,7,0.0,-0.37267857142857164,Stable Transition,Stabil
+General,Industrial & Investment,2025-08-18,3.1,0.848191353073451,8,-0.1875,-0.058571428571428275,Stable Transition,Stabil
+General,Industrial & Investment,2025-08-25,3.5250000000000004,0.6748333127521196,8,0.0,0.42500000000000027,Stable Transition,Stabil
+General,Industrial & Investment,2025-09-01,3.24,0.0,1,0.0,-0.28500000000000014,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2025-09-08,3.43,0.0,1,0.0,0.18999999999999995,Wait & See,Low Reliability (Data Minim)
+General,Industrial & Investment,2025-09-15,3.807142857142857,0.8703201381429382,7,0.0,0.3771428571428568,Stable Transition,Stabil
+General,Industrial & Investment,2025-09-22,3.402857142857143,0.6576698794453568,14,0.0,-0.4042857142857139,Stable Transition,Stabil
+General,Industrial & Investment,2025-09-29,3.1199999999999997,0.2939387691339814,6,0.0,-0.28285714285714336,Stable Transition,Stabil
+General,Industrial & Investment,2025-10-06,3.2638461538461536,0.7812974088179488,13,-0.15384615384615385,0.14384615384615396,Stable Transition,Stabil
+General,Industrial & Investment,2025-10-13,3.30125,0.7584097349632035,24,-0.0625,0.0374038461538464,Stable Transition,Stabil
+General,Industrial & Investment,2025-10-20,3.144117647058824,0.709093248659242,17,-0.11764705882352941,-0.1571323529411761,Stable Transition,Stabil
+General,Industrial & Investment,2025-10-27,3.5605882352941176,0.7888478195146014,17,0.0,0.4164705882352937,Stable Transition,Stabil
+General,Industrial & Investment,2025-11-03,3.372105263157895,0.5387906101979013,19,0.0,-0.18848297213622267,Stable Transition,Stabil
+General,Industrial & Investment,2025-11-10,3.3245454545454547,1.0484785513911445,11,-0.7272727272727273,-0.047559808612440246,Stable Transition,Stabil
+General,Industrial & Investment,2025-11-17,3.46578947368421,0.8979316714258985,19,-0.2631578947368421,0.1412440191387554,Stable Transition,Stabil
+General,Industrial & Investment,2025-11-24,3.348,0.9498121697971326,20,-0.125,-0.11778947368421022,Stable Transition,Stabil
+General,Industrial & Investment,2025-12-01,3.51969696969697,0.9236391504819563,33,-0.15151515151515152,0.17169696969697013,Stable Transition,Stabil
+General,Industrial & Investment,2025-12-08,3.5490909090909093,0.6650674948659516,33,0.0,0.029393939393939306,Stable Transition,Stabil
+General,Industrial & Investment,2025-12-15,3.584736842105263,0.6884876212963907,19,-0.15789473684210525,0.035645933014353925,Stable Transition,Stabil
+General,Industrial & Investment,2025-12-22,3.832631578947369,0.7564452106564931,19,-0.23684210526315788,0.2478947368421056,Stable Transition,Stabil
+General,Industrial & Investment,2025-12-29,3.4899999999999998,0.6814238486716339,14,0.0,-0.34263157894736906,Stable Transition,Stabil
+General,Industrial & Investment,2026-01-05,3.7395833333333335,0.7335884355369999,24,-0.10416666666666667,0.2495833333333337,Stable Transition,Stabil
+General,Industrial & Investment,2026-01-12,3.4719444444444445,0.8508880048663259,36,-0.2222222222222222,-0.267638888888889,Stable Transition,Stabil
+General,Industrial & Investment,2026-01-19,3.6915,0.895534732786573,60,-0.825,0.2195555555555555,Stable Transition,Stabil
+General,Industrial & Investment,2026-01-26,3.4705263157894737,0.9432772285094989,19,-0.13157894736842105,-0.22097368421052632,Stable Transition,Stabil
+General,Mining & Upstream,2024-06-03,2.0,1.4142135623730951,2,-5.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2024-07-22,3.0,0.0,2,0.0,1.0,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2024-07-29,3.3600000000000003,0.5091168824543142,2,0.0,0.3600000000000003,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2024-08-19,4.7,0.0,1,0.0,1.3399999999999999,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2024-09-23,1.01,0.0,1,-6.0,-3.6900000000000004,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2024-10-07,1.0,0.0,1,-11.0,-0.010000000000000009,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2024-11-18,1.0,0.0,1,-15.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2025-05-26,4.52,0.0,1,0.0,3.5199999999999996,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2025-06-09,3.15,1.6291920287880943,4,-2.375,-1.3699999999999997,⚠️ High Risk,Ambivalensi: Konflik Narasi
+General,Mining & Upstream,2025-06-30,3.0,0.0,1,0.0,-0.1499999999999999,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2025-07-28,1.67,1.1518246394308467,3,-5.333333333333333,-1.33,ℹ️ Early Discourse,Stabil
+General,Mining & Upstream,2025-08-04,3.0,0.0,1,0.0,1.33,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2025-08-18,2.0300000000000002,1.9808079159777203,4,-5.0,-0.9699999999999998,⚠️ High Risk,Ambivalensi: Konflik Narasi
+General,Mining & Upstream,2025-08-25,1.0,0.0,5,-7.5,-1.0300000000000002,ℹ️ Early Discourse,Stabil
+General,Mining & Upstream,2025-09-08,1.0,0.0,2,-9.5,0.0,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2025-09-22,1.0,0.0,1,-6.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2025-09-29,3.0,0.0,1,0.0,2.0,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2025-10-06,4.88,0.0,1,0.0,1.88,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2025-10-13,3.0,0.0,1,0.0,-1.88,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2025-10-20,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2025-11-03,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2025-11-17,3.2,0.0,1,0.0,0.20000000000000018,Wait & See,Low Reliability (Data Minim)
+General,Mining & Upstream,2025-11-24,2.886,1.0180275045400295,5,-0.5,-0.31400000000000006,Stable Transition,Stabil
+General,Mining & Upstream,2025-12-01,2.7214285714285715,1.3050469796323882,7,-1.5,-0.1645714285714286,⚠️ High Risk,Ambivalensi: Konflik Narasi
+General,Mining & Upstream,2025-12-08,3.3674999999999997,0.6090087574630322,4,0.0,0.6460714285714282,Stable Transition,Stabil
+General,Mining & Upstream,2025-12-15,4.9675,0.03947573094109001,4,0.0,1.6000000000000005,✅ Execution Phase,Stabil
+General,Mining & Upstream,2025-12-22,4.28,0.6235382907247959,3,0.0,-0.6875,✅ Execution Phase,Stabil
+General,Mining & Upstream,2025-12-29,3.73,0.9512798396546273,4,0.0,-0.5500000000000003,Stable Transition,Stabil
+General,Mining & Upstream,2026-01-05,2.2875,1.5322178913805529,4,-3.0,-1.4425,⚠️ High Risk,Ambivalensi: Konflik Narasi
+General,Mining & Upstream,2026-01-12,2.8800000000000003,1.4783467424488381,12,-1.3333333333333333,0.5925000000000002,⚠️ High Risk,Ambivalensi: Konflik Narasi
+General,Mining & Upstream,2026-01-19,3.546666666666667,1.314277367985921,9,-0.8888888888888888,0.6666666666666665,⚠️ High Risk,Ambivalensi: Konflik Narasi
+General,Mining & Upstream,2026-01-26,4.23,0.9651942809610925,4,0.0,0.6833333333333336,✅ Execution Phase,Stabil
+General,Sustainability & ESG,2024-07-22,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2024-07-29,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2024-08-12,4.93,0.0,1,0.0,1.9299999999999997,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-03-10,3.0,0.0,1,0.0,-1.9299999999999997,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-05-19,4.84,0.0,1,0.0,1.8399999999999999,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-05-26,4.88,0.0,1,0.0,0.040000000000000036,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-06-02,2.983333333333333,0.2254624876411448,3,-0.8333333333333334,-1.896666666666667,Stable Transition,Stabil
+General,Sustainability & ESG,2025-06-09,2.813333333333333,1.585265487754864,6,-2.0833333333333335,-0.16999999999999993,⚠️ High Risk,Ambivalensi: Konflik Narasi
+General,Sustainability & ESG,2025-06-23,3.76,0.0,1,0.0,0.9466666666666668,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-06-30,4.88,0.0,1,0.0,1.12,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-07-21,4.88,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-09-01,4.91,0.0,1,0.0,0.03000000000000025,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-09-15,1.09,0.0,1,-2.5,-3.8200000000000003,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-10-13,3.0,0.0,1,0.0,1.91,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-10-20,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-10-27,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-11-03,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-11-10,4.0,1.4142135623730951,2,0.0,1.0,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-11-17,4.99,0.0,1,0.0,0.9900000000000002,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2025-11-24,3.0042857142857144,1.1460636565051283,7,-0.5714285714285714,-1.9857142857142858,Stable Transition,Stabil
+General,Sustainability & ESG,2025-12-01,3.465,0.8267809060849595,4,0.0,0.4607142857142854,Stable Transition,Stabil
+General,Sustainability & ESG,2025-12-08,3.2775,1.1244806882209308,12,-0.3333333333333333,-0.1875,Stable Transition,Stabil
+General,Sustainability & ESG,2025-12-15,3.117272727272727,1.2481753956002413,11,-1.9090909090909092,-0.16022727272727266,⚠️ High Risk,Ambivalensi: Konflik Narasi
+General,Sustainability & ESG,2025-12-22,3.0666666666666664,0.11547005383792529,3,0.0,-0.050606060606060765,Stable Transition,Stabil
+General,Sustainability & ESG,2025-12-29,3.0,0.0,1,0.0,-0.06666666666666643,Wait & See,Low Reliability (Data Minim)
+General,Sustainability & ESG,2026-01-05,2.64,1.163872845288522,6,-1.3333333333333333,-0.3599999999999999,Stable Transition,Stabil
+General,Sustainability & ESG,2026-01-12,3.441111111111111,0.6958168660726118,9,0.0,0.8011111111111107,Stable Transition,Stabil
+General,Sustainability & ESG,2026-01-19,3.3595238095238096,1.0622122019186004,21,-0.21428571428571427,-0.08158730158730121,Stable Transition,Stabil
+General,Sustainability & ESG,2026-01-26,3.0,0.0,1,0.0,-0.3595238095238096,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2024-06-24,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2024-08-05,3.0,0.0,2,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2024-11-04,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2024-11-11,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2024-11-18,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-01-13,3.39,0.0,1,0.0,0.3900000000000001,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-01-20,4.26,0.0,1,0.0,0.8699999999999997,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-04-21,3.3600000000000003,0.5091168824543142,2,0.0,-0.8999999999999995,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-04-28,3.0,0.0,1,0.0,-0.3600000000000003,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-05-05,3.0,0.0,2,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-05-19,3.95,1.0606601717798212,2,0.0,0.9500000000000002,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-06-09,3.0,0.0,1,0.0,-0.9500000000000002,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-06-30,5.0,0.0,1,0.0,2.0,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-07-07,2.3366666666666664,1.1489270356873553,3,-1.3333333333333333,-2.6633333333333336,ℹ️ Early Discourse,Stabil
+General,Trade & Export,2025-07-14,1.19,0.0,1,-2.0,-1.1466666666666665,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-07-21,3.7,0.9899494936611668,2,0.0,2.5100000000000002,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-07-28,2.526666666666667,0.9980647941558372,3,-0.5,-1.1733333333333333,Stable Transition,Stabil
+General,Trade & Export,2025-08-11,4.18,0.0,1,0.0,1.6533333333333329,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-08-18,3.0,0.0,3,0.0,-1.1799999999999997,Stable Transition,Stabil
+General,Trade & Export,2025-09-15,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-09-22,3.94,1.3293607486307093,2,0.0,0.94,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-10-06,3.1300000000000003,0.22516660498395433,3,0.0,-0.8099999999999996,Stable Transition,Stabil
+General,Trade & Export,2025-10-13,3.6750000000000003,0.6151828996322964,2,0.0,0.5449999999999999,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-10-20,3.0,0.0,1,0.0,-0.6750000000000003,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-10-27,3.0,0.0,2,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-11-03,3.0,0.0,3,0.0,0.0,Stable Transition,Stabil
+General,Trade & Export,2025-11-10,3.635,0.898025612106915,2,0.0,0.6349999999999998,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-11-17,4.345,0.883883476483184,2,0.0,0.71,Wait & See,Low Reliability (Data Minim)
+General,Trade & Export,2025-11-24,3.8788888888888886,0.7131522355788495,9,0.0,-0.46611111111111114,Stable Transition,Stabil
+General,Trade & Export,2025-12-01,3.2175,0.5859588102185403,12,0.0,-0.6613888888888888,Stable Transition,Stabil
+General,Trade & Export,2025-12-08,3.42375,0.44724354183630854,8,0.0,0.20625000000000027,Stable Transition,Stabil
+General,Trade & Export,2025-12-15,3.29625,1.2013675243535713,8,-0.75,-0.12749999999999995,⚠️ High Risk,Ambivalensi: Konflik Narasi
+General,Trade & Export,2025-12-22,3.6957894736842105,0.7438810821142621,19,0.0,0.3995394736842104,Stable Transition,Stabil
+General,Trade & Export,2025-12-29,4.088235294117647,0.6717257187100032,17,0.0,0.39244582043343623,✅ Execution Phase,Stabil
+General,Trade & Export,2026-01-05,4.124666666666667,0.8384498167678821,15,-0.43333333333333335,0.0364313725490204,✅ Execution Phase,Stabil
+General,Trade & Export,2026-01-12,3.337241379310345,0.8113872448367327,29,-0.6551724137931034,-0.7874252873563221,Stable Transition,Stabil
+General,Trade & Export,2026-01-19,3.4833333333333334,0.8606308248410968,33,-0.2878787878787879,0.14609195402298836,Stable Transition,Stabil
+General,Trade & Export,2026-01-26,3.08,0.1385640646055103,3,0.0,-0.4033333333333333,Stable Transition,Stabil
+Nickel & EV,General,2024-04-29,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2024-09-23,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-02-24,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-03-10,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-03-17,4.24,0.0,1,0.0,1.2400000000000002,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-06-02,3.0,0.0,1,0.0,-1.2400000000000002,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-06-09,3.3485714285714288,1.0296366584148258,14,-0.17857142857142858,0.34857142857142875,Stable Transition,Stabil
+Nickel & EV,General,2025-06-16,3.9539999999999997,0.7997999749937479,5,0.0,0.605428571428571,Stable Transition,Stabil
+Nickel & EV,General,2025-06-23,4.88,0.0,1,0.0,0.9260000000000002,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-07-07,3.216666666666667,0.37527767497325665,3,0.0,-1.663333333333333,Stable Transition,Stabil
+Nickel & EV,General,2025-07-28,3.62,0.0,1,0.0,0.4033333333333333,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-08-11,3.89,0.0,1,0.0,0.27,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-09-01,3.0,0.0,1,0.0,-0.8900000000000001,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-09-08,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-09-15,3.0,0.0,2,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-09-22,1.402,0.8933196516365237,5,-6.4,-1.598,ℹ️ Early Discourse,Stabil
+Nickel & EV,General,2025-10-13,3.0,0.0,1,0.0,1.598,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-10-27,3.0,0.0,2,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-11-03,3.2085714285714286,0.469589486375372,7,0.0,0.20857142857142863,Stable Transition,Stabil
+Nickel & EV,General,2025-11-10,3.0,0.0,1,0.0,-0.20857142857142863,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-11-17,1.19,0.0,1,-2.0,-1.81,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2025-11-24,3.1566666666666667,2.0084156276362055,3,-1.3333333333333333,1.9666666666666668,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,General,2025-12-01,3.7920000000000003,0.996554062758263,5,0.0,0.6353333333333335,Stable Transition,Stabil
+Nickel & EV,General,2025-12-08,3.7000000000000006,1.044030650891055,3,0.0,-0.09199999999999964,Stable Transition,Stabil
+Nickel & EV,General,2025-12-22,1.910909090909091,1.4781911550638813,11,-4.363636363636363,-1.7890909090909097,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,General,2025-12-29,1.3645454545454545,0.8085958648962241,11,-6.0,-0.5463636363636364,ℹ️ Early Discourse,Stabil
+Nickel & EV,General,2026-01-05,3.0,0.0,2,0.0,1.6354545454545455,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2026-01-12,3.0,0.0,2,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2026-01-19,3.76,1.074802307403552,2,0.0,0.7599999999999998,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,General,2026-01-26,3.0,0.0,1,0.0,-0.7599999999999998,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2023-12-25,3.25,0.7071067811865476,8,0.0,0.0,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2024-01-01,4.75,0.0707106781186545,2,0.0,1.5,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-01-15,3.0,0.0,1,0.0,-1.75,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-02-05,3.24,0.0,1,0.0,0.2400000000000002,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-02-12,3.0,0.0,1,0.0,-0.2400000000000002,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-03-18,5.0,0.0,1,0.0,2.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-04-08,5.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-04-15,4.27,0.0,1,0.0,-0.7300000000000004,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-05-06,3.0,0.0,1,0.0,-1.2699999999999996,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-05-13,5.0,0.0,1,0.0,2.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-05-20,4.92,0.0,1,0.0,-0.08000000000000007,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-05-27,3.24,0.0,1,0.0,-1.6799999999999997,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-06-10,3.24,0.41569219381653083,3,0.0,0.0,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2024-07-01,5.0,0.0,1,0.0,1.7599999999999998,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-07-15,4.36,0.0,1,0.0,-0.6399999999999997,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-07-29,3.0,0.0,3,0.0,-1.3600000000000003,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2024-08-05,5.0,0.0,1,0.0,2.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-08-12,4.72,0.0,1,0.0,-0.28000000000000025,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-08-19,3.88,0.0,1,0.0,-0.8399999999999999,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-09-02,4.7,0.0,1,0.0,0.8200000000000003,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-09-16,5.0,0.0,1,0.0,0.2999999999999998,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-09-23,4.7575,0.43238678672380054,4,0.0,-0.24249999999999972,✅ Execution Phase,Stabil
+Nickel & EV,Industrial & Investment,2024-10-07,3.0,0.0,2,0.0,-1.7575000000000003,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-10-14,4.495,0.5444722215136413,2,0.0,1.495,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-10-21,4.24,0.0,1,0.0,-0.2549999999999999,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-11-11,3.8783333333333334,0.9984070646117577,6,0.0,-0.3616666666666668,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2024-11-18,3.6350000000000002,0.9837428525788638,6,0.0,-0.24333333333333318,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2024-11-25,4.27,0.0,1,0.0,0.6349999999999993,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-12-02,3.325,1.5953787429113295,4,-0.5,-0.9449999999999994,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Industrial & Investment,2024-12-09,3.0,0.0,1,0.0,-0.3250000000000002,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-12-16,4.8,0.2828427124746193,2,0.0,1.7999999999999998,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2024-12-23,3.3775,1.3920099377039903,4,-0.625,-1.4224999999999999,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Industrial & Investment,2024-12-30,3.935,0.9521029356114812,4,0.0,0.5575000000000001,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-01-06,4.0600000000000005,1.2162236636408612,2,0.0,0.12500000000000044,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2025-01-13,3.4233333333333333,0.7332348418708244,3,0.0,-0.6366666666666672,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-01-20,3.4975,0.9950000000000002,4,0.0,0.07416666666666671,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-01-27,3.0,0.0,1,0.0,-0.49750000000000005,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2025-02-03,3.0666666666666664,0.11547005383792529,3,0.0,0.06666666666666643,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-02-17,3.866666666666667,0.9485427419643953,3,0.0,0.8000000000000007,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-02-24,4.333333333333333,0.9468544414709861,3,0.0,0.4666666666666659,✅ Execution Phase,Stabil
+Nickel & EV,Industrial & Investment,2025-03-03,3.0,0.0,2,0.0,-1.333333333333333,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2025-03-10,4.0600000000000005,0.7479750441469734,4,0.0,1.0600000000000005,✅ Execution Phase,Stabil
+Nickel & EV,Industrial & Investment,2025-03-17,4.323333333333333,0.9728480525412655,3,0.0,0.26333333333333275,✅ Execution Phase,Stabil
+Nickel & EV,Industrial & Investment,2025-03-31,3.0,0.0,1,0.0,-1.3233333333333333,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2025-04-07,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2025-04-14,4.25,0.6417164482853779,5,0.0,1.25,✅ Execution Phase,Stabil
+Nickel & EV,Industrial & Investment,2025-04-21,3.864,0.7839387731194317,10,0.0,-0.3860000000000001,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-04-28,3.7588888888888885,0.7520047281175238,9,0.0,-0.10511111111111138,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-05-05,3.87,1.1831408294122143,10,-0.2,0.1111111111111116,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-05-12,4.38,0.9263044855769621,6,-0.4166666666666667,0.5099999999999998,✅ Execution Phase,Stabil
+Nickel & EV,Industrial & Investment,2025-05-19,4.1,1.3829949385301452,9,-0.2777777777777778,-0.28000000000000025,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Industrial & Investment,2025-05-26,3.7275,0.7102757680413057,4,0.0,-0.3724999999999996,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-06-02,3.1580000000000004,0.1637681287674743,5,0.0,-0.5694999999999997,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-06-09,3.15,1.4625320509308504,14,-2.357142857142857,-0.008000000000000451,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Industrial & Investment,2025-06-16,3.9775,1.1293176405836107,4,0.0,0.8275000000000001,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-06-23,3.9560000000000004,1.327405154594649,10,-0.4,-0.02149999999999963,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Industrial & Investment,2025-06-30,3.8942857142857146,1.5181991211394412,7,-0.42857142857142855,-0.06171428571428583,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Industrial & Investment,2025-07-07,4.214,1.0204802790843146,5,0.0,0.31971428571428584,✅ Execution Phase,Stabil
+Nickel & EV,Industrial & Investment,2025-07-14,3.2079999999999997,0.590833685942537,10,0.0,-1.0060000000000007,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-07-21,4.017692307692308,1.1792169283480305,13,-0.38461538461538464,0.8096923076923086,✅ Execution Phase,Stabil
+Nickel & EV,Industrial & Investment,2025-07-28,3.4352941176470586,1.3223233230145475,17,-0.8235294117647058,-0.5823981900452497,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Industrial & Investment,2025-08-04,3.835,0.7887719005587805,10,0.0,0.39970588235294136,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-08-11,3.8850000000000002,0.9158984659884524,6,0.0,0.050000000000000266,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-08-18,3.36,0.4613025037868318,3,0.0,-0.5250000000000004,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-08-25,4.136363636363637,0.9411086305764359,11,0.0,0.7763636363636368,✅ Execution Phase,Stabil
+Nickel & EV,Industrial & Investment,2025-09-08,3.7728571428571427,0.861291942098502,7,0.0,-0.363506493506494,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-09-15,3.628,0.8653149715566002,5,0.0,-0.14485714285714257,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-09-22,4.596,0.8922331533853692,5,0.0,0.968,✅ Execution Phase,Stabil
+Nickel & EV,Industrial & Investment,2025-09-29,3.3980000000000006,0.5831123390908481,5,0.0,-1.1979999999999995,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-10-06,3.29,0.5800000000000001,4,0.0,-0.10800000000000054,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-10-13,3.0,0.0,2,0.0,-0.29000000000000004,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Industrial & Investment,2025-10-20,3.525714285714286,0.7739478264684502,7,0.0,0.5257142857142858,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-10-27,4.552,0.7605064102293941,5,0.0,1.0262857142857138,✅ Execution Phase,Stabil
+Nickel & EV,Industrial & Investment,2025-11-03,3.351,1.4149711422263471,10,-1.7,-1.2009999999999996,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Industrial & Investment,2025-11-10,3.161818181818182,1.7693491355965796,11,-2.4545454545454546,-0.1891818181818179,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Industrial & Investment,2025-11-17,3.679,1.0892652977529804,10,-0.35,0.5171818181818177,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-11-24,4.049230769230769,1.2655464006932706,13,-0.46153846153846156,0.3702307692307696,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Industrial & Investment,2025-12-01,4.008333333333334,0.7554711554167152,6,0.0,-0.04089743589743566,✅ Execution Phase,Stabil
+Nickel & EV,Industrial & Investment,2025-12-08,3.5477777777777777,1.2937907266804953,9,-0.5555555555555556,-0.46055555555555605,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Industrial & Investment,2025-12-15,2.93,1.42452331208256,4,-0.75,-0.6177777777777775,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Industrial & Investment,2025-12-22,3.8242857142857143,0.9162579175257212,7,-0.21428571428571427,0.8942857142857141,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2025-12-29,3.58,0.6752565649969119,8,0.0,-0.24428571428571422,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2026-01-05,3.2311111111111113,0.9913178658286712,9,-0.2222222222222222,-0.3488888888888888,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2026-01-12,3.7954999999999997,1.1375017640240803,20,-0.2,0.5643888888888884,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2026-01-19,3.579285714285714,1.016331746911519,14,-0.14285714285714285,-0.21621428571428547,Stable Transition,Stabil
+Nickel & EV,Industrial & Investment,2026-01-26,3.56,0.9699484522385712,3,0.0,-0.01928571428571413,Stable Transition,Stabil
+Nickel & EV,Mining & Upstream,2024-06-10,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2024-07-15,1.0,0.0,1,-10.5,-2.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2024-09-23,3.0,0.0,1,0.0,2.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2024-10-07,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2024-10-28,1.0,0.0,2,-6.25,-2.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2024-11-11,1.3,0.0,1,-2.5,0.30000000000000004,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-03-10,5.0,0.0,1,0.0,3.7,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-03-17,5.0,0.0,4,0.0,0.0,✅ Execution Phase,Stabil
+Nickel & EV,Mining & Upstream,2025-03-24,3.9019999999999997,0.7035765772110381,5,0.0,-1.0980000000000003,Stable Transition,Stabil
+Nickel & EV,Mining & Upstream,2025-04-07,4.97,0.0,1,0.0,1.068,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-04-14,4.97,0.051961524227066104,3,0.0,0.0,✅ Execution Phase,Stabil
+Nickel & EV,Mining & Upstream,2025-04-21,4.296666666666667,0.14433756729740638,3,0.0,-0.6733333333333329,✅ Execution Phase,Stabil
+Nickel & EV,Mining & Upstream,2025-04-28,3.7866666666666666,1.0161364737737413,3,0.0,-0.5100000000000002,Stable Transition,Stabil
+Nickel & EV,Mining & Upstream,2025-05-05,3.515,1.3854842715334832,4,-0.5,-0.2716666666666665,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Mining & Upstream,2025-05-19,4.16,0.0,1,0.0,0.645,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-06-02,4.39,0.8656327165721037,21,-0.11904761904761904,0.22999999999999954,✅ Execution Phase,Stabil
+Nickel & EV,Mining & Upstream,2025-06-09,3.7849999999999997,1.2462806802564912,104,-0.5528846153846154,-0.605,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Mining & Upstream,2025-06-16,3.562,1.238106080538605,10,-2.3,-0.22299999999999986,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Mining & Upstream,2025-06-23,2.18,1.7498571370257632,5,-8.1,-1.3819999999999997,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Mining & Upstream,2025-06-30,3.7433333333333336,0.9112811494447436,3,0.0,1.5633333333333335,Stable Transition,Stabil
+Nickel & EV,Mining & Upstream,2025-07-14,4.635,0.51618795026618,2,0.0,0.8916666666666662,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-07-21,2.94,2.7435743110038042,2,-6.0,-1.6949999999999998,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-07-28,3.62,0.0,1,0.0,0.6800000000000002,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-08-04,1.01,0.0,1,-4.0,-2.6100000000000003,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-08-11,3.4,2.0951610916585865,3,-1.3333333333333333,2.3899999999999997,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Mining & Upstream,2025-08-25,3.65,0.0,1,0.0,0.25,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-09-08,4.0,1.4142135623730951,2,0.0,0.3500000000000001,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-09-15,3.145,2.6233661582020913,2,-2.5,-0.855,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-09-22,1.0,0.0,1,-10.0,-2.145,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-09-29,3.0,0.0,2,0.0,2.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-10-06,3.9425,1.8391370258901318,4,-0.625,0.9424999999999999,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Mining & Upstream,2025-10-27,4.0,1.4142135623730951,2,0.0,0.05750000000000011,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-11-03,4.883333333333334,0.11547005383792565,3,0.0,0.8833333333333337,✅ Execution Phase,Stabil
+Nickel & EV,Mining & Upstream,2025-11-10,3.5400000000000005,0.7372923436466704,3,0.0,-1.3433333333333333,Stable Transition,Stabil
+Nickel & EV,Mining & Upstream,2025-11-17,3.005,2.8213560569343246,2,-2.0,-0.5350000000000006,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-11-24,3.645,0.9998349863852536,6,0.0,0.6400000000000001,Stable Transition,Stabil
+Nickel & EV,Mining & Upstream,2025-12-01,4.890000000000001,0.01414213562373159,2,0.0,1.2450000000000006,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-12-08,4.27,0.0,2,0.0,-0.620000000000001,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-12-15,3.1,0.14142135623730964,2,0.0,-1.1699999999999995,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Mining & Upstream,2025-12-22,2.2800000000000002,1.1713240371477058,5,-6.4,-0.8199999999999998,ℹ️ Early Discourse,Stabil
+Nickel & EV,Mining & Upstream,2025-12-29,1.918,1.2588169048753675,5,-4.0,-0.3620000000000003,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Mining & Upstream,2026-01-05,2.68,1.0929928331573513,7,-1.1428571428571428,0.7620000000000002,Stable Transition,Stabil
+Nickel & EV,Mining & Upstream,2026-01-12,3.89,1.1321660655575223,11,-0.13636363636363635,1.21,Stable Transition,Stabil
+Nickel & EV,Mining & Upstream,2026-01-19,3.78625,0.631956994468091,8,0.0,-0.10375000000000023,Stable Transition,Stabil
+Nickel & EV,Mining & Upstream,2026-01-26,3.0,0.0,1,0.0,-0.7862499999999999,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2024-01-08,4.96,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2024-05-13,4.7,0.0,1,0.0,-0.2599999999999998,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2024-06-10,4.24,0.0,1,0.0,-0.45999999999999996,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2024-07-15,4.91,0.0,1,0.0,0.6699999999999999,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2024-07-22,3.0,0.0,1,0.0,-1.9100000000000001,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2024-09-09,4.88,0.0,1,0.0,1.88,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2024-12-09,3.24,0.0,1,0.0,-1.6399999999999997,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2024-12-16,3.72,0.0,1,0.0,0.48,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-01-20,1.38,0.0,1,-2.5,-2.3400000000000003,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-02-10,3.6566666666666663,1.1373800303035626,3,0.0,2.2766666666666664,Stable Transition,Stabil
+Nickel & EV,Sustainability & ESG,2025-02-24,3.58,0.0,1,0.0,-0.07666666666666622,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-04-28,3.24,0.0,1,0.0,-0.33999999999999986,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-05-26,3.0,0.0,1,0.0,-0.2400000000000002,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-06-02,2.8489473684210527,1.4606387291442133,19,-2.236842105263158,-0.15105263157894733,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Sustainability & ESG,2025-06-09,3.349411764705882,1.2301788273751961,68,-1.0294117647058822,0.5004643962848294,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Sustainability & ESG,2025-06-16,2.6033333333333335,0.8482924024179399,9,-2.5,-0.7460784313725486,Stable Transition,Stabil
+Nickel & EV,Sustainability & ESG,2025-06-23,4.88,0.0,1,0.0,2.2766666666666664,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-06-30,5.0,0.0,1,0.0,0.1200000000000001,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-07-14,3.0,0.0,1,0.0,-2.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-07-21,4.88,0.0,1,0.0,1.88,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-08-04,3.0,0.0,1,0.0,-1.88,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-08-25,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-09-08,3.8542857142857145,1.9430719419076001,7,-1.7857142857142858,0.8542857142857145,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Sustainability & ESG,2025-09-15,4.666666666666667,0.8164965809277261,6,0.0,0.8123809523809524,✅ Execution Phase,Stabil
+Nickel & EV,Sustainability & ESG,2025-09-22,4.8,0.16970562748477155,2,-1.25,0.13333333333333286,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-09-29,3.5300000000000002,0.9070832376358853,4,0.0,-1.2699999999999996,Stable Transition,Stabil
+Nickel & EV,Sustainability & ESG,2025-10-06,4.9399999999999995,0.0848528137423861,2,-1.25,1.4099999999999993,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-10-13,3.194,1.1707177285750825,5,-0.3,-1.7459999999999996,Stable Transition,Stabil
+Nickel & EV,Sustainability & ESG,2025-10-20,4.3133333333333335,0.6161439225808636,3,0.0,1.1193333333333335,✅ Execution Phase,Stabil
+Nickel & EV,Sustainability & ESG,2025-10-27,3.0,0.0,2,0.0,-1.3133333333333335,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-11-03,3.94,1.3293607486307093,2,0.0,0.94,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-11-10,3.925,0.6434671708797579,2,0.0,-0.015000000000000124,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-11-17,3.4299999999999997,0.732757349559411,4,0.0,-0.4950000000000001,Stable Transition,Stabil
+Nickel & EV,Sustainability & ESG,2025-11-24,3.78,1.1030865786510138,2,0.0,0.3500000000000001,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-12-01,4.62,0.0,1,0.0,0.8400000000000003,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-12-22,4.88,0.0,1,0.0,0.2599999999999998,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2025-12-29,4.156666666666667,1.5841548745835006,6,-1.6666666666666667,-0.7233333333333327,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Sustainability & ESG,2026-01-05,4.203333333333333,1.0473935904583975,3,0.0,0.04666666666666597,✅ Execution Phase,Stabil
+Nickel & EV,Sustainability & ESG,2026-01-12,3.97,1.0323759005323594,2,0.0,-0.23333333333333295,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Sustainability & ESG,2026-01-19,3.128,1.3975406970818414,5,-0.6,-0.8420000000000001,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Sustainability & ESG,2026-01-26,4.7,0.4242640687119283,2,0.0,1.572,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2024-05-20,4.7,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2024-08-05,5.0,0.0,1,0.0,0.2999999999999998,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2024-11-18,4.98,0.0,1,0.0,-0.019999999999999574,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2024-12-02,3.2,0.0,1,0.0,-1.7800000000000002,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-04-14,5.0,0.0,1,0.0,1.7999999999999998,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-05-05,2.3466666666666667,1.111320535819137,3,-1.6666666666666667,-2.6533333333333333,ℹ️ Early Discourse,Stabil
+Nickel & EV,Trade & Export,2025-05-12,3.1333333333333333,0.11547005383792519,3,0.0,0.7866666666666666,Stable Transition,Stabil
+Nickel & EV,Trade & Export,2025-06-02,3.12,0.16970562748477155,2,0.0,-0.013333333333333197,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-06-09,2.0,1.4142135623730951,2,-3.0,-1.12,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-06-16,2.295,0.997020561473032,2,-1.0,0.29499999999999993,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-06-30,4.3,0.8202438661763948,2,0.0,2.005,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-07-07,4.07,0.0,1,0.0,-0.22999999999999954,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-07-14,3.0,0.0,3,0.0,-1.0700000000000003,Stable Transition,Stabil
+Nickel & EV,Trade & Export,2025-07-28,3.052,1.3743616700126644,5,-0.5,0.052000000000000046,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Trade & Export,2025-08-04,3.39,0.0,1,0.0,0.3380000000000001,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-08-11,4.96,0.0,1,0.0,1.5699999999999998,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-08-18,3.965,1.3647160876900366,2,0.0,-0.9950000000000001,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-08-25,3.3600000000000003,0.5091168824543142,2,0.0,-0.6049999999999995,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-09-01,3.635,0.898025612106915,2,0.0,0.27499999999999947,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-09-08,3.0,0.0,1,0.0,-0.6349999999999998,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-09-15,3.0,0.0,3,0.0,0.0,Stable Transition,Stabil
+Nickel & EV,Trade & Export,2025-09-22,2.7299999999999995,2.177888886054566,2,-1.0,-0.27000000000000046,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-10-13,3.23,0.3983716857408418,3,0.0,0.5000000000000004,Stable Transition,Stabil
+Nickel & EV,Trade & Export,2025-10-27,3.0,0.0,1,0.0,-0.22999999999999998,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-11-03,3.3200000000000003,0.3666060555964673,3,0.0,0.3200000000000003,Stable Transition,Stabil
+Nickel & EV,Trade & Export,2025-11-10,4.493333333333333,0.6697263122599656,3,0.0,1.173333333333333,✅ Execution Phase,Stabil
+Nickel & EV,Trade & Export,2025-11-17,4.81,0.0,1,0.0,0.31666666666666643,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-11-24,3.2,0.0,1,0.0,-1.6099999999999994,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-12-01,3.1300000000000003,0.2251666049839542,3,0.0,-0.06999999999999984,Stable Transition,Stabil
+Nickel & EV,Trade & Export,2025-12-08,3.46,0.3676955262170046,2,0.0,0.3299999999999996,Wait & See,Low Reliability (Data Minim)
+Nickel & EV,Trade & Export,2025-12-22,1.6166666666666667,1.1495868823190356,9,-3.3333333333333335,-1.8433333333333333,ℹ️ Early Discourse,Stabil
+Nickel & EV,Trade & Export,2025-12-29,2.572857142857143,1.4050588870899599,7,-0.9285714285714286,0.9561904761904763,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Trade & Export,2026-01-05,2.8516666666666666,0.8806683068367265,6,-0.4166666666666667,0.2788095238095236,Stable Transition,Stabil
+Nickel & EV,Trade & Export,2026-01-12,3.3049999999999997,1.3380396107739114,6,-0.8333333333333334,0.45333333333333314,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Trade & Export,2026-01-19,2.66,1.4306292321912064,3,-0.8333333333333334,-0.6449999999999996,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Nickel & EV,Trade & Export,2026-01-26,3.08,0.1131370849898477,2,0.0,0.41999999999999993,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2024-04-08,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2024-08-12,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2024-08-19,3.39,0.0,1,0.0,0.3900000000000001,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2024-09-09,3.0,0.0,1,0.0,-0.3900000000000001,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2024-09-23,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2024-10-07,1.19,0.0,1,-2.0,-1.81,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2024-11-04,2.29,1.8243354954612927,2,-6.0,1.1,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-02-10,1.01,0.0,1,-4.0,-1.28,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-02-24,3.72,0.0,1,0.0,2.71,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-03-24,5.0,0.0,1,0.0,1.2799999999999998,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-05-12,3.0,0.0,1,0.0,-2.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-06-09,4.48,0.0,1,0.0,1.4800000000000004,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-07-14,3.1,0.14142135623730964,2,0.0,-1.3800000000000003,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-07-28,3.325,0.45961940777125565,2,0.0,0.2250000000000001,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-09-01,3.0,0.0,1,0.0,-0.3250000000000002,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-09-22,3.12,0.16970562748477155,2,0.0,0.1200000000000001,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-09-29,3.0,0.0,1,0.0,-0.1200000000000001,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-10-06,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-10-20,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-10-27,3.0225,1.5845582980755237,4,-1.25,0.022499999999999964,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,General,2025-11-03,3.2,0.0,1,0.0,0.1775000000000002,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-12-01,4.04,1.1879393923933996,2,0.0,0.8399999999999999,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-12-08,4.1925,0.8333616661850163,4,0.0,0.15249999999999986,✅ Execution Phase,Stabil
+Other Minerals,General,2025-12-15,3.0,0.0,7,0.0,-1.1925,Stable Transition,Stabil
+Other Minerals,General,2025-12-22,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,General,2025-12-29,3.1933333333333334,0.33486315612998296,3,0.0,0.19333333333333336,Stable Transition,Stabil
+Other Minerals,General,2026-01-05,4.193333333333333,1.0373684655576019,3,0.0,1.0,✅ Execution Phase,Stabil
+Other Minerals,General,2026-01-12,3.1871428571428573,0.41371142461520555,7,0.0,-1.006190476190476,Stable Transition,Stabil
+Other Minerals,General,2026-01-19,3.04,0.08944271909999167,5,0.0,-0.14714285714285724,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2024-01-08,4.88,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-01-22,4.11,0.0,1,0.0,-0.7699999999999996,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-02-12,2.75,0.0,1,-2.5,-1.3600000000000003,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-02-19,3.2,0.0,1,0.0,0.4500000000000002,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-02-26,5.0,0.0,3,0.0,1.7999999999999998,✅ Execution Phase,Stabil
+Other Minerals,Industrial & Investment,2024-03-18,4.2700000000000005,1.099863627910297,3,0.0,-0.7299999999999995,✅ Execution Phase,Stabil
+Other Minerals,Industrial & Investment,2024-03-25,4.27,0.0,1,-6.0,-8.881784197001252e-16,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-04-08,5.0,0.0,1,0.0,0.7300000000000004,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-04-22,1.1033333333333333,0.1537313674346694,3,-5.333333333333333,-3.8966666666666665,ℹ️ Early Discourse,Stabil
+Other Minerals,Industrial & Investment,2024-04-29,4.0,0.0,1,-4.0,2.8966666666666665,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-05-06,5.0,0.0,1,0.0,1.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-05-13,3.39,0.0,1,0.0,-1.6099999999999999,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-05-20,5.0,0.0,1,0.0,1.6099999999999999,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-05-27,5.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-06-03,3.98,1.3859292911256331,2,0.0,-1.02,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-06-10,5.0,0.0,1,0.0,1.02,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-06-17,4.88,0.0,1,0.0,-0.1200000000000001,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-06-24,4.9625,0.056789083458002675,4,0.0,0.08250000000000046,✅ Execution Phase,Stabil
+Other Minerals,Industrial & Investment,2024-07-01,4.8,0.0,1,0.0,-0.16250000000000053,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-07-08,4.366666666666667,1.0115993936995678,3,0.0,-0.4333333333333327,✅ Execution Phase,Stabil
+Other Minerals,Industrial & Investment,2024-07-29,3.0,0.0,1,0.0,-1.3666666666666671,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-08-05,4.88,0.0,1,0.0,1.88,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-08-12,3.0,0.0,4,0.0,-1.88,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2024-08-19,3.5933333333333337,0.4574203027122141,3,0.0,0.5933333333333337,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2024-08-26,1.095,0.134350288425444,2,-5.0,-2.498333333333334,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-09-09,1.19,0.0,1,-2.0,0.09499999999999997,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-09-16,3.633,1.7821837416183801,10,-0.8,2.443,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Industrial & Investment,2024-09-23,3.343333333333333,1.2826072278031995,42,-0.5952380952380952,-0.2896666666666672,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Industrial & Investment,2024-09-30,1.12625,0.09999107102993891,8,-3.0,-2.217083333333333,ℹ️ Early Discourse,Stabil
+Other Minerals,Industrial & Investment,2024-10-07,2.615714285714286,1.7071015214086138,14,-2.2857142857142856,1.4894642857142861,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Industrial & Investment,2024-10-14,4.105555555555556,1.3718246162603212,9,-0.2222222222222222,1.48984126984127,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Industrial & Investment,2024-10-21,1.0666666666666667,0.10692676621563627,3,-4.666666666666667,-3.0388888888888896,ℹ️ Early Discourse,Stabil
+Other Minerals,Industrial & Investment,2024-10-28,1.48,0.8544588931013591,5,-2.4,0.41333333333333333,ℹ️ Early Discourse,Stabil
+Other Minerals,Industrial & Investment,2024-11-04,2.106666666666667,1.144161993192689,6,-2.3333333333333335,0.6266666666666669,ℹ️ Early Discourse,Stabil
+Other Minerals,Industrial & Investment,2024-11-11,2.6900000000000004,2.3617366491630687,2,-3.0,0.5833333333333335,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2024-11-18,3.83,0.8862655734409786,4,0.0,1.1399999999999997,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2024-11-25,3.646,0.8780546680019418,5,0.0,-0.18400000000000016,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2024-12-02,2.604,1.504802312597904,5,-3.6,-1.0419999999999998,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Industrial & Investment,2024-12-09,2.842222222222222,1.8371089908996812,9,-4.222222222222222,0.2382222222222219,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Industrial & Investment,2024-12-16,2.8699999999999997,1.5633617623570049,15,-1.7666666666666666,0.02777777777777768,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Industrial & Investment,2024-12-23,1.9125,1.1619165202371469,8,-3.3125,-0.9574999999999996,ℹ️ Early Discourse,Stabil
+Other Minerals,Industrial & Investment,2024-12-30,3.875,0.9007219326740078,4,0.0,1.9625,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-01-06,3.9490909090909088,0.7446133835146203,11,-0.22727272727272727,0.07409090909090876,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-01-13,2.9433333333333334,0.7766595135579037,9,-1.0,-1.0057575757575754,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-01-20,3.7016666666666667,0.8331006341773285,6,0.0,0.7583333333333333,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-01-27,3.3833333333333333,0.3622614157391501,3,0.0,-0.31833333333333336,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-02-03,3.338,1.3643203436143578,5,-0.5,-0.045333333333333226,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Industrial & Investment,2025-02-10,3.214,0.5971822725656436,10,0.0,-0.12400000000000011,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-02-17,3.9966666666666666,0.9451102228488132,3,0.0,0.7826666666666666,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-02-24,2.7716666666666665,0.8845431966086602,6,-1.5,-1.225,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-03-03,2.90875,1.2905418297311073,8,-1.25,0.13708333333333345,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Industrial & Investment,2025-03-10,3.223333333333333,0.23586719427112637,3,0.0,0.3145833333333332,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-03-17,4.0809375,1.0424950201010479,32,-0.125,0.857604166666667,✅ Execution Phase,Stabil
+Other Minerals,Industrial & Investment,2025-03-31,3.0,0.0,1,0.0,-1.0809375,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2025-04-14,3.06,0.12000000000000009,4,0.0,0.06000000000000005,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-04-21,3.7516666666666665,0.9348030095515668,6,0.0,0.6916666666666664,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-04-28,3.1799999999999997,1.7707625476048447,3,-1.8333333333333333,-0.5716666666666668,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Industrial & Investment,2025-05-05,4.52,0.0,1,-2.0,1.3399999999999999,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2025-05-12,3.6633333333333336,1.1489270356873555,3,0.0,-0.856666666666666,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-05-19,3.4259999999999997,1.8041877212012427,10,-2.25,-0.23733333333333384,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Industrial & Investment,2025-05-26,4.29875,0.9659848786157504,8,0.0,0.8727500000000004,✅ Execution Phase,Stabil
+Other Minerals,Industrial & Investment,2025-06-02,3.97,1.3717871555019026,2,0.0,-0.3287499999999999,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2025-06-09,3.78,1.0684334326480054,5,0.0,-0.1900000000000004,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-06-23,3.2,0.0,1,0.0,-0.5799999999999996,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2025-06-30,4.88,0.0,1,0.0,1.6799999999999997,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2025-07-07,3.98,1.3859292911256331,2,0.0,-0.8999999999999999,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2025-07-14,3.316,0.6010657202003787,5,0.0,-0.6640000000000001,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-07-21,3.64375,0.8134571285568772,8,0.0,0.32775,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-07-28,3.8949999999999996,0.8553537279979554,6,0.0,0.25124999999999975,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-08-04,4.0183333333333335,0.9598420008869515,6,0.0,0.12333333333333396,✅ Execution Phase,Stabil
+Other Minerals,Industrial & Investment,2025-08-11,3.0666666666666664,0.10327955589886456,6,0.0,-0.9516666666666671,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-08-18,3.9777777777777774,1.3882703066926283,9,-1.3333333333333333,0.911111111111111,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Industrial & Investment,2025-08-25,3.891666666666667,0.8250711631383225,12,0.0,-0.08611111111111036,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-09-01,4.12,1.2445079348883235,2,0.0,0.22833333333333306,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Industrial & Investment,2025-09-08,3.2614285714285716,0.39295583176011756,7,0.0,-0.8585714285714285,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-09-15,3.6879999999999997,0.8465636420258077,5,-0.6,0.42657142857142816,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-09-22,3.3983333333333334,0.33778198096800044,6,0.0,-0.2896666666666663,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-09-29,3.7181818181818183,1.016374125819997,11,-0.18181818181818182,0.3198484848484848,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-10-06,1.9646153846153847,1.0849163975825926,13,-2.0,-1.7535664335664336,ℹ️ Early Discourse,Stabil
+Other Minerals,Industrial & Investment,2025-10-13,3.7700000000000005,1.1498840521258364,13,-0.38461538461538464,1.8053846153846158,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-10-20,3.600909090909091,0.7365385875221276,11,0.0,-0.1690909090909094,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-10-27,3.4600000000000004,0.7439534035587624,13,-0.11538461538461539,-0.14090909090909065,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-11-03,4.055454545454546,0.8781385270714824,11,0.0,0.5954545454545452,✅ Execution Phase,Stabil
+Other Minerals,Industrial & Investment,2025-11-10,3.443,0.6294274294061937,10,0.0,-0.6124545454545456,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-11-17,4.14,0.9371659404822603,6,0.0,0.6969999999999996,✅ Execution Phase,Stabil
+Other Minerals,Industrial & Investment,2025-11-24,3.564,1.0499439138459836,10,-0.55,-0.5759999999999996,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-12-01,4.082222222222223,0.8585711644613067,9,0.0,0.5182222222222226,✅ Execution Phase,Stabil
+Other Minerals,Industrial & Investment,2025-12-08,3.3733333333333335,0.8026622369755952,6,0.0,-0.7088888888888891,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2025-12-15,4.05,0.995339138183564,7,0.0,0.6766666666666663,✅ Execution Phase,Stabil
+Other Minerals,Industrial & Investment,2025-12-22,4.195,0.8938866445659276,4,0.0,0.14500000000000046,✅ Execution Phase,Stabil
+Other Minerals,Industrial & Investment,2025-12-29,4.17,0.8808518604169489,3,0.0,-0.025000000000000355,✅ Execution Phase,Stabil
+Other Minerals,Industrial & Investment,2026-01-05,3.75,1.1673045875006232,11,-0.45454545454545453,-0.41999999999999993,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2026-01-12,3.698095238095238,0.8658095578568018,21,0.0,-0.0519047619047619,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2026-01-19,3.624,0.8254722554056221,10,0.0,-0.07409523809523799,Stable Transition,Stabil
+Other Minerals,Industrial & Investment,2026-01-26,3.723333333333333,1.0518713482804505,3,0.0,0.09933333333333305,Stable Transition,Stabil
+Other Minerals,Mining & Upstream,2024-02-05,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-05-20,3.78,1.1030865786510138,2,0.0,0.7799999999999998,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-05-27,1.0,0.0,1,-12.0,-2.78,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-06-03,2.3333333333333335,1.1547005383792515,3,-5.333333333333333,1.3333333333333335,ℹ️ Early Discourse,Stabil
+Other Minerals,Mining & Upstream,2024-06-10,3.6266666666666665,1.0854185060764965,3,0.0,1.293333333333333,Stable Transition,Stabil
+Other Minerals,Mining & Upstream,2024-06-17,3.0,0.0,1,0.0,-0.6266666666666665,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-06-24,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-07-22,1.19,0.0,1,-2.0,-1.81,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-07-29,1.67,1.1518246394308467,3,-3.3333333333333335,0.48,ℹ️ Early Discourse,Stabil
+Other Minerals,Mining & Upstream,2024-08-12,1.99,1.9600170067289382,4,-4.625,0.32000000000000006,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Mining & Upstream,2024-08-19,2.0,1.1547005383792515,4,-3.0,0.010000000000000009,ℹ️ Early Discourse,Stabil
+Other Minerals,Mining & Upstream,2024-09-09,3.0,0.0,1,0.0,1.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-09-23,3.515,1.8653596614772892,4,-8.125,0.5150000000000001,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Mining & Upstream,2024-09-30,1.02,0.0,1,-4.0,-2.495,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-10-07,2.3333333333333335,1.1547005383792517,3,-2.0,1.3133333333333335,ℹ️ Early Discourse,Stabil
+Other Minerals,Mining & Upstream,2024-10-14,4.99,0.0,1,0.0,2.6566666666666667,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-10-21,4.0,1.4142135623730951,2,0.0,-0.9900000000000002,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-11-04,1.0,0.0,1,-10.0,-3.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-11-11,1.645,0.9158784489949163,4,-2.375,0.645,ℹ️ Early Discourse,Stabil
+Other Minerals,Mining & Upstream,2024-11-18,1.0250000000000001,0.012247448713915896,6,-5.0,-0.6199999999999999,ℹ️ Early Discourse,Stabil
+Other Minerals,Mining & Upstream,2024-11-25,3.0,0.0,1,0.0,1.9749999999999999,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-12-02,1.01,0.0,1,-4.0,-1.99,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-12-09,1.005,0.00707106781186556,2,-9.0,-0.0050000000000001155,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-12-16,3.0,0.0,1,0.0,1.995,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-12-23,3.0949999999999998,2.694076836320746,2,-1.0,0.09499999999999975,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2024-12-30,1.1425,0.1819111504737042,4,-9.0,-1.9524999999999997,ℹ️ Early Discourse,Stabil
+Other Minerals,Mining & Upstream,2025-01-06,2.0949999999999998,1.279863273947651,2,-1.0,0.9524999999999997,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-01-27,1.01,0.0,1,-4.0,-1.0849999999999997,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-02-10,2.3333333333333335,1.1547005383792515,3,-2.0,1.3233333333333335,ℹ️ Early Discourse,Stabil
+Other Minerals,Mining & Upstream,2025-02-17,4.0,1.4142135623730951,2,0.0,1.6666666666666665,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-02-24,3.0,0.0,1,0.0,-1.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-03-03,4.99,0.0,1,0.0,1.9900000000000002,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-03-10,4.558,0.8745970500750617,5,0.0,-0.4320000000000004,✅ Execution Phase,Stabil
+Other Minerals,Mining & Upstream,2025-03-17,4.337999999999999,0.8035048226364294,5,0.0,-0.22000000000000064,✅ Execution Phase,Stabil
+Other Minerals,Mining & Upstream,2025-03-24,4.11,0.0,1,0.0,-0.22799999999999887,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-04-07,5.0,0.0,1,0.0,0.8899999999999997,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-04-14,5.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-05-05,2.29,1.1765627905046125,5,-3.2,-2.71,ℹ️ Early Discourse,Stabil
+Other Minerals,Mining & Upstream,2025-05-12,4.57,0.26870057685088766,2,0.0,2.2800000000000002,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-05-19,1.0,0.0,1,-10.0,-3.5700000000000003,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-05-26,3.9240000000000004,0.9332095155965782,5,0.0,2.9240000000000004,Stable Transition,Stabil
+Other Minerals,Mining & Upstream,2025-06-02,1.09,0.0,1,-2.5,-2.8340000000000005,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-06-09,3.376666666666667,0.3492658967987954,6,0.0,2.286666666666667,Stable Transition,Stabil
+Other Minerals,Mining & Upstream,2025-06-16,3.5666666666666664,0.9814954576223639,3,0.0,0.1899999999999995,Stable Transition,Stabil
+Other Minerals,Mining & Upstream,2025-06-30,3.8,1.1313708498984758,2,0.0,0.2333333333333334,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-07-07,1.0,0.0,1,-6.0,-2.8,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-07-14,3.3600000000000003,0.5091168824543142,2,0.0,2.3600000000000003,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-07-21,2.236666666666667,0.9457448563610235,3,-2.1666666666666665,-1.1233333333333335,ℹ️ Early Discourse,Stabil
+Other Minerals,Mining & Upstream,2025-07-28,3.94,1.3293607486307093,2,0.0,1.7033333333333331,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-08-04,1.6666666666666667,1.1547005383792517,3,-4.333333333333333,-2.2733333333333334,ℹ️ Early Discourse,Stabil
+Other Minerals,Mining & Upstream,2025-08-18,2.76,1.6431981012647259,3,-1.3333333333333333,1.093333333333333,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Mining & Upstream,2025-08-25,2.7866666666666666,0.9214481356357864,6,-1.0833333333333333,0.02666666666666684,Stable Transition,Stabil
+Other Minerals,Mining & Upstream,2025-09-01,4.99,0.014142135623730649,2,0.0,2.2033333333333336,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-09-08,2.4516666666666667,1.7038593447425954,6,-3.1666666666666665,-2.5383333333333336,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Mining & Upstream,2025-09-15,4.98,0.0,1,0.0,2.5283333333333338,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-09-22,2.902857142857143,1.474558852512781,7,-1.7857142857142858,-2.0771428571428574,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Mining & Upstream,2025-09-29,4.67,0.43840620433565924,2,0.0,1.767142857142857,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-10-06,3.214444444444444,1.665421201311481,9,-1.8333333333333333,-1.4555555555555557,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Mining & Upstream,2025-10-13,3.345714285714286,1.7251266344132263,7,-1.0,0.13126984126984187,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Mining & Upstream,2025-10-20,2.8489999999999998,1.721423506545931,10,-2.2,-0.49671428571428633,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Mining & Upstream,2025-10-27,2.5777777777777775,1.3145225157616907,9,-5.666666666666667,-0.27122222222222225,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Mining & Upstream,2025-11-03,3.91,0.7937883848986453,3,0.0,1.3322222222222226,Stable Transition,Stabil
+Other Minerals,Mining & Upstream,2025-11-10,3.6666666666666665,1.1547005383792515,3,0.0,-0.24333333333333362,Stable Transition,Stabil
+Other Minerals,Mining & Upstream,2025-11-17,3.442,0.7712457455312149,5,0.0,-0.22466666666666635,Stable Transition,Stabil
+Other Minerals,Mining & Upstream,2025-11-24,2.5875000000000004,1.8338552287462608,4,-3.125,-0.8544999999999998,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Mining & Upstream,2025-12-01,3.283333333333333,0.434173544411295,6,-0.4166666666666667,0.6958333333333329,Stable Transition,Stabil
+Other Minerals,Mining & Upstream,2025-12-08,4.04875,0.9164751964533931,8,0.0,0.7654166666666669,✅ Execution Phase,Stabil
+Other Minerals,Mining & Upstream,2025-12-15,4.014,0.9914786936692086,5,0.0,-0.03474999999999984,✅ Execution Phase,Stabil
+Other Minerals,Mining & Upstream,2025-12-22,3.0,0.0,1,0.0,-1.0140000000000002,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2025-12-29,3.386,1.4636700447846844,5,-1.2,0.3860000000000001,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Mining & Upstream,2026-01-05,4.7,0.0,1,0.0,1.314,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2026-01-12,3.0,0.0,1,0.0,-1.7000000000000002,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Mining & Upstream,2026-01-19,3.255,1.315786625727912,10,-1.1,0.2549999999999999,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Mining & Upstream,2026-01-26,3.72,0.0,1,0.0,0.4650000000000003,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2024-08-26,3.69,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2024-09-30,3.985,1.3930003589374984,2,0.0,0.29499999999999993,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2024-12-16,1.0,0.0,1,-6.0,-2.985,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2024-12-30,1.0,0.0,1,-8.5,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-02-03,5.0,0.0,1,0.0,4.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-02-24,3.0,0.0,1,0.0,-2.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-04-28,4.95,0.0,1,0.0,1.9500000000000002,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-05-05,4.6,0.0,1,0.0,-0.35000000000000053,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-05-12,4.94,0.0,1,0.0,0.34000000000000075,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-06-09,2.875,0.1767766952966369,2,-1.25,-2.0650000000000004,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-06-16,4.92,0.05656854249492385,2,0.0,2.045,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-06-30,3.0,0.0,2,0.0,-1.92,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-07-07,4.5,0.0,1,0.0,1.5,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-07-14,1.0,0.0,1,-10.0,-3.5,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-07-21,4.99,0.0,1,0.0,3.99,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-08-11,3.0,0.0,1,0.0,-1.9900000000000002,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-08-18,4.7,0.0,1,0.0,1.7000000000000002,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-09-22,3.39,0.0,1,0.0,-1.31,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-09-29,4.99,0.0,1,0.0,1.6,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-10-20,4.88,0.0,1,0.0,-0.11000000000000032,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-11-03,3.2,0.0,1,0.0,-1.6799999999999997,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-11-17,3.0,0.0,1,0.0,-0.20000000000000018,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-11-24,3.6666666666666665,1.1547005383792517,3,0.0,0.6666666666666665,Stable Transition,Stabil
+Other Minerals,Sustainability & ESG,2025-12-01,3.0,0.0,5,0.0,-0.6666666666666665,Stable Transition,Stabil
+Other Minerals,Sustainability & ESG,2025-12-08,3.05,0.10000000000000014,4,0.0,0.04999999999999982,Stable Transition,Stabil
+Other Minerals,Sustainability & ESG,2025-12-15,3.0,0.0,1,0.0,-0.04999999999999982,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2025-12-29,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2026-01-05,2.1950000000000003,1.4212846301849604,2,-1.0,-0.8049999999999997,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Sustainability & ESG,2026-01-12,3.0,0.0,3,0.0,0.8049999999999997,Stable Transition,Stabil
+Other Minerals,Sustainability & ESG,2026-01-19,3.7142857142857144,1.4786802352419668,7,-1.0714285714285714,0.7142857142857144,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Trade & Export,2024-06-03,5.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2024-06-10,4.11,0.0,1,0.0,-0.8899999999999997,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2024-10-14,4.11,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2024-10-21,1.01,0.0,1,-4.0,-3.1000000000000005,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2024-11-11,3.0,0.0,1,0.0,1.99,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2024-11-25,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2024-12-02,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-02-03,4.88,0.0,1,0.0,1.88,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-02-17,1.04,0.04690415759823432,4,-7.5,-3.84,ℹ️ Early Discourse,Stabil
+Other Minerals,Trade & Export,2025-02-24,4.6,0.0,1,0.0,3.5599999999999996,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-03-31,3.0,0.0,1,0.0,-1.5999999999999996,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-04-21,1.38,0.0,1,-1.5,-1.62,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-05-05,3.2,0.0,1,0.0,1.8200000000000003,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-05-26,4.94,0.0,1,0.0,1.7400000000000002,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-06-23,3.2,0.0,1,0.0,-1.7400000000000002,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-07-07,3.0,0.0,1,0.0,-0.20000000000000018,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-07-14,3.975,1.3788582233137678,2,0.0,0.9750000000000001,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-07-21,3.0,0.0,3,0.0,-0.9750000000000001,Stable Transition,Stabil
+Other Minerals,Trade & Export,2025-07-28,3.2,0.0,1,0.0,0.20000000000000018,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-08-04,3.74,0.6408587988004848,3,0.0,0.54,Stable Transition,Stabil
+Other Minerals,Trade & Export,2025-08-18,4.27,0.0,1,0.0,0.5299999999999994,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-08-25,4.09,1.012077072163973,3,0.0,-0.17999999999999972,✅ Execution Phase,Stabil
+Other Minerals,Trade & Export,2025-09-01,3.0,0.0,2,0.0,-1.0899999999999999,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-09-08,3.0,0.0,1,0.0,0.0,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-10-06,3.65,0.0,1,0.0,0.6499999999999999,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-10-13,3.0,0.0,1,0.0,-0.6499999999999999,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-10-20,3.0225,1.578826040660169,4,-4.0,0.022499999999999964,⚠️ High Risk,Ambivalensi: Konflik Narasi
+Other Minerals,Trade & Export,2025-10-27,4.1425,0.9508724064422802,4,0.0,1.12,✅ Execution Phase,Stabil
+Other Minerals,Trade & Export,2025-11-03,4.1259999999999994,1.0281925889637602,5,0.0,-0.016500000000000625,✅ Execution Phase,Stabil
+Other Minerals,Trade & Export,2025-11-10,3.0,0.0,1,0.0,-1.1259999999999994,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-11-17,4.1466666666666665,0.9042713457069546,6,0.0,1.1466666666666665,✅ Execution Phase,Stabil
+Other Minerals,Trade & Export,2025-11-24,3.736666666666667,1.0748178140193494,3,0.0,-0.4099999999999997,Stable Transition,Stabil
+Other Minerals,Trade & Export,2025-12-01,3.051666666666667,1.1546846611376922,6,-0.75,-0.6849999999999996,Stable Transition,Stabil
+Other Minerals,Trade & Export,2025-12-08,3.81,1.022105669683913,3,0.0,0.7583333333333329,Stable Transition,Stabil
+Other Minerals,Trade & Export,2025-12-15,2.0949999999999998,1.2798632739476512,2,-1.25,-1.7150000000000003,Wait & See,Low Reliability (Data Minim)
+Other Minerals,Trade & Export,2025-12-22,3.375,0.6007495318350234,4,0.0,1.2800000000000002,Stable Transition,Stabil
+Other Minerals,Trade & Export,2025-12-29,3.375,0.5233545643251811,4,0.0,0.0,Stable Transition,Stabil
+Other Minerals,Trade & Export,2026-01-05,3.47125,0.6900401127056724,8,0.0,0.09624999999999995,Stable Transition,Stabil
+Other Minerals,Trade & Export,2026-01-19,3.1314285714285717,0.7600313276751288,7,-0.5714285714285714,-0.3398214285714283,Stable Transition,Stabil
