@@ -87,15 +87,15 @@ df_news, df_weekly = load_data()
 st.sidebar.title("Policy Monitor") # Judul Sidebar Simpel
 st.sidebar.caption("Data Intelligence Dashboard")
 
-# AI Setup (Menggunakan Model yang Anda Konfirmasi Tersedia)
+
 with st.sidebar.expander("🤖 Intelligence Core", expanded=True):
-    # DAFTAR MODEL SESUAI HASIL CEK ANDA
+    
     verified_models = [
-        "gemini-3-pro-preview",       # The Beast
-        "gemini-3-flash-preview",     # The Speedster
-        "gemini-2.5-pro",             # Stable High Intellect
-        "gemini-2.5-flash",           # Stable Speed
-        "gemini-2.0-flash"            # Legacy Stable
+        "gemini-3-pro-preview",       
+        "gemini-3-flash-preview",     
+        "gemini-2.5-pro",             
+        "gemini-2.5-flash",           
+        "gemini-2.0-flash"            
     ]
     model_option = st.selectbox("AI Model:", verified_models, index=0)
     api_key = st.text_input("Gemini API Key:", type="password", value=os.getenv("GOOGLE_API_KEY", ""))
